@@ -1,0 +1,28 @@
+.table td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.table tbody tr:hover {
+    background-color: #eee;
+}
+
+.progress {
+    border-radius: 2px;
+    padding: 0.3rem;
+    color:white
+}
+
+.actions svg {
+    cursor:pointer
+}
+
+.delete-btn {
+    color:#e10d05;
+    cursor:pointer
+}
+
+.edit-btn {
+    cursor:pointer;
+    
+}
