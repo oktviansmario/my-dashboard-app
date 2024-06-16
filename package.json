@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage":"https://oktviansmario.github.io/my-dashboard-app/",
+  "homepage":"https://oktviansmario.github.io/my-dashboard-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
